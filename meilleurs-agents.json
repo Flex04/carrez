@@ -1,0 +1,26 @@
+{
+	"title": "model les meilleurs agents",
+	"type": "object",
+
+	"location": {
+		"city" : "string",
+		"zip" : "int",
+
+		"appartment": {
+			"minprice": "int",
+			"averageprice" : "int",
+			"maxprice" : "int"
+		},
+		"house": {
+			"minprice": "int",
+			"averageprice" : "int",
+			"maxprice" : "int"
+		},
+		"leasing": {
+			"minprice": "int",
+			"averageprice" : "int",
+			"maxprice" : "int"
+		}
+	},
+	"required": ["city", "zip"]
+}
