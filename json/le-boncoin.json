@@ -1,0 +1,17 @@
+{
+	"title": "model le bon coin",
+	"type": "object",
+
+	"properties": {
+		"price": "integer",
+        "type": "string",
+		"rooms": "integer",
+		"surface": "integer"
+	},
+
+	"location": {
+        "city": "string",
+        "zip": "integer"
+    },
+	"required": ["price", "type", "zip", "surface"]
+}

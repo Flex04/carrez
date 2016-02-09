@@ -6,6 +6,15 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+ How to use:
+- Launch app.htlm
+- Insert your Leboncoin URL and clock on DEAL
+
+Problems:
+-Location sometimes have another variable called "meuble/nonmeuble", which take the variable surface place then we can't divide the total price by the surface
+-We need an account for "les meilleurs agents" that's why I match every leboncoin pages with the one of les meilleurs agents locate on Le Chesnay already loaded in the repository 
+
+
 - [Intro](#intro)
 - [Workshop in 1 sentence](#workshop-in-1-sentence)
 - [How to do that?](#how-to-do-that)

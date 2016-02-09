@@ -1,0 +1,15 @@
+{
+	"title": "model les meilleurs agents",
+    "type": "object",
+    
+    "properties": {
+        "averageprice": "integer",
+        "type": "string"        
+    },
+
+    "location": {
+        "city": "string",
+        "zip": "integer"
+    },
+	"required": ["averageprice", "type", "zip"]
+}

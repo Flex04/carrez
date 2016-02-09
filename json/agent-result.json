@@ -1,0 +1,17 @@
+{
+    "title": "model les meilleurs agents",
+    "type": "object",
+    "properties": {
+        "averageprice": 4383,
+        "type": "Appartement"
+    },
+    "location": {
+        "city": "Le Chesnay",
+        "zip": 78150
+    },
+    "required": [
+        "averageprice",
+        "type",
+        "zip"
+    ]
+}
